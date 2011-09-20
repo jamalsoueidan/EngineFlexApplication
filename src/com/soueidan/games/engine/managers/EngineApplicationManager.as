@@ -4,7 +4,7 @@ package com.soueidan.games.engine.managers
 
 	public class EngineApplicationManager
 	{
-		public static var _application:EngineApplication;
+		private static var _application:EngineApplication;
 		
 		public static function setInstance(application:EngineApplication):void {
 			_application = application;
