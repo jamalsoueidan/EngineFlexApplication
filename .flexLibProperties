@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.soueidan.games.engine.assets.UserAsset"/>
+    <classEntry path="com.soueidan.games.engine.components.PanelContainer"/>
+    <classEntry path="com.soueidan.games.engine.components.Text"/>
+    <classEntry path="com.soueidan.games.engine.components.chat.ChatMessage"/>
+    <classEntry path="com.soueidan.games.engine.components.popups.NoConnectionPopUpWindow"/>
+    <classEntry path="com.soueidan.games.engine.components.user.UserBase"/>
+    <classEntry path="com.soueidan.games.engine.core.EngineApplication"/>
+    <classEntry path="com.soueidan.games.engine.formats.UserPermission"/>
+    <classEntry path="com.soueidan.games.engine.formats.UserStatus"/>
+    <classEntry path="com.soueidan.games.engine.managers.ChatManager"/>
+    <classEntry path="com.soueidan.games.engine.managers.EngineApplicationManager"/>
+    <classEntry path="com.soueidan.games.engine.managers.ResourceManager"/>
+    <classEntry path="com.soueidan.games.engine.managers.ServerManager"/>
+    <classEntry path="com.soueidan.games.engine.managers.UserManager"/>
+    <classEntry path="com.soueidan.games.engine.net.Server"/>
+    <classEntry path="com.soueidan.games.engine.net.requests.CancelFindRandomOpponentRequest"/>
+    <classEntry path="com.soueidan.games.engine.net.requests.FindRandomOpponentRequest"/>
+    <classEntry path="com.soueidan.games.engine.net.responses.ServerResponseHandler"/>
+    <classEntry path="com.soueidan.games.engine.skins.HContainerSkin"/>
+    <classEntry path="com.soueidan.games.engine.skins.PanelSkin"/>
+    <classEntry path="com.soueidan.games.engine.skins.TitleWindowSkin"/>
+    <classEntry path="com.soueidan.games.engine.skins.VContainerSkin"/>
+    <classEntry path="com.soueidan.games.engine.net.requests.BanUserRequest"/>
+    <classEntry path="com.soueidan.games.engine.net.requests.KickUserRequest"/>
+    <classEntry path="com.soueidan.games.engine.formats.BanMode"/>
+    <classEntry path="com.soueidan.games.engine.formats.InvitationReply"/>
+    <classEntry path="com.soueidan.games.engine.net.requests.InvitationReplyRequest"/>
+    <classEntry path="com.soueidan.games.engine.managers.ToolTipManager"/>
+    <classEntry path="com.soueidan.games.engine.managers.NotificationManager"/>
+    <classEntry path="com.soueidan.games.engine.components.Notification"/>
+    <classEntry path="com.soueidan.games.engine.components.SkinnedVGroup"/>
+    <classEntry path="com.soueidan.games.engine.components.SkinnedHGroup"/>
+    <classEntry path="com.soueidan.games.engine.components.chat.ChatPanel"/>
+    <classEntry path="com.soueidan.games.engine.components.chat.ChatForm"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
